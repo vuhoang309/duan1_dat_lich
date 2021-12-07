@@ -1,0 +1,33 @@
+body{
+    width: 80%;
+    margin: auto;
+}
+.main{
+    width: 100%;
+}
+.container{
+    width: 100%;
+}
+.left1{float: left;
+    margin: 20px;
+    width: 40%;
+}
+.right1{
+    float: left;
+    width: 56%;
+    line-height: 20px;
+    height: 300px;
+}
+.left img{
+    width: 30%;
+}
+.right{
+    float: left;
+    width: 90%;
+    line-height: 20px;
+}
+.left{
+    float: left;
+    margin: 20px;
+    width: 6%;
+}
